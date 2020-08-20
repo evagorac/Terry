@@ -1,3 +1,5 @@
+## TERRY
+
 Here is a project I worked on during the summer of 2020.
 
 Terry is a 6 dof spherical robot arm that is capable of visiting any position and orientation in space within the arm's reach.  This repository encapsulates the CAD modeling done while designing the robot arm.
