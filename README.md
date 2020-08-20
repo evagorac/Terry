@@ -9,3 +9,5 @@ Nested within this repo is a submodule called TBrain where I plan to implement t
 I have no plans to use Terry for commerical purposes.
 
 ![GitHub Logo](/Pictures/DSC_0055.jpg)
+
+More images found in https://github.com/evagorac/Terry/tree/master/Pictures
